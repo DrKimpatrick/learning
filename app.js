@@ -1,3 +1,5 @@
-const run = () => {
-    console.log("Henry")
+const run = (name) => {
+    console.log(`My name is ${name}`)
 }
+
+run("kimanje")
